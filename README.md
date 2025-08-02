@@ -1,2 +1,2 @@
-# cafe-menus
-small cafe menu school project
+# Cafe menu thing
+Small cafe menu school project
